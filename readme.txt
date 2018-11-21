@@ -2,4 +2,4 @@ trabalho final
 
 layout bootstrap
 
-html das pg estão na pasta page
+html das pg estão na pasta pages
